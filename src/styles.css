@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.mainBody {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+.input {
+  padding: 1px;
+  border-bottom-width: 3px;
+  border-bottom-color: black;
+}
+
+.button {
+  background-color: green;
+  color: white;
+  border-width: 0px;
+}
